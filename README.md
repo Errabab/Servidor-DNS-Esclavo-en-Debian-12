@@ -12,10 +12,10 @@ Este documento explica los pasos para crear y configurar un servidor DNS esclavo
 
 Para comenzar, necesitas instalar BIND9, que es el software utilizado para gestionar el servicio de DNS. Ejecuta los siguientes comandos en tu terminal:
 
-```bash
-sudo apt update
-sudo apt install bind9 bind9utils 
-```
+   ```bash
+    sudo apt update
+    sudo apt install bind9 bind9utils 
+   ```
 ![DNS](/img/DNS1.png)
 
 ## Paso 1: Configuración del Servidor DNS Esclavo
