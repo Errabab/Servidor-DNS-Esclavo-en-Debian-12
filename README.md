@@ -21,7 +21,7 @@ sudo apt install bind9 bind9utils
 ## Paso 1: Configuración del Servidor DNS Esclavo
 * El servidor esclavo necesita tener acceso a las zonas que serán transferidas desde el servidor maestro. A continuación, configuraremos el archivo de zonas en el servidor esclavo.
 
-    ```bash
+```bash
 /etc/bind/named.conf.local
 ```
 
