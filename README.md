@@ -1,8 +1,7 @@
 # Servidor-DNS-Esclavo-en-Debian-12
 
 ## Creación y Configuración de un Servidor DNS Esclavo en Debian 12 (Sin Interfaz Gráfica)
-Este documento explica los pasos para crear y configurar un servidor DNS esclavo utilizando BIND9 en Debian 12, sin interfaz gráfica. Asegúrate de tener privilegios de superusuario para completar estas tareas.
-
+Este documento explica los pasos para crear y configurar un servidor DNS esclavo utilizando BIND9 en Debian 12, sin interfaz gráfica. 
 ## Requisitos Previos
 
 - Tener acceso a una máquina virtual (o servidor) con Debian o un sistema operativo basado en Linux.
