@@ -96,8 +96,7 @@ Para comenzar, necesitas instalar BIND9, que es el software utilizado para gesti
     ![DNS](/img/DNS5.png)
 
 ## Conclusión
-Has configurado un servidor DNS esclavo en Debian 12 utilizando BIND9. El servidor esclavo ahora puede recibir transferencias de zona desde el servidor maestro, permitiendo redundancia y alta disponibilidad en el sistema DNS. Asegúrate de probar y verificar que ambos servidores funcionan correctamente.
-
+Has configurado un servidor DNS esclavo en Debian 12 utilizando BIND9. El servidor esclavo ahora puede recibir transferencias de zona desde el servidor maestro, permitiendo redundancia y alta disponibilidad en el sistema DNS. 
 
 
 
